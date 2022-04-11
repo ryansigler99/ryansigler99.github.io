@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Roboto+Slab:wght@200&display=swap');
+
+
+
+body{
+    background-color:mediumpurple !important;
+}
+
+#gavel{
+    position:relative;
+    top: 50px;
+    width:60%;
+    border:solid black 3px;
+    left: -10px;
+}
+
+img{
+    position: relative;
+    width: 200px;
+    margin: auto;
+    left:30px;
+    bottom:25px;
+}
+
+#home_button{
+    width: 10px;
+}
+
+
+h2{
+font-family: Roboto Mono;
+padding-bottom: 40px;
+ padding-left: 25px;
+padding-right: 25px;
+    width:80%;
+}
+
+h1{
+    font-family: Roboto Mono;
+    padding-bottom: 40px;
+
+}
+
+nav{
+    font-family: Roboto Mono;
+    padding-bottom: 20px;
+    word-spacing: inherit;
+    border:solid black 3px;
+    background-color: #5bc0de;
+}
+
+h3{
+
+    font-family: Roboto Mono;
+    background-color:#5bc0de;
+    border: black solid 3px;
+    width: 90%;
+    padding:20px;
+}
+
+h4{
+    font-family: Roboto Mono;    
+    text-align: center;
+    position: relative;
+    bottom:50px;
+}
+
+h5{
+    font-family: Roboto Mono;
+    background-color:#5bc0de;
+    border: black solid 3px;
+    width: 80%;
+    padding:20px;
+    
+}
+
+#saul{
+    border-radius:100%;
+    border:solid 5px #5bc0de;
+    width:200px;
+    height: 200px
+}
+
+#person_name{
+    float:right;
+    width:500px;
+    text-align: center;
+    font-family: Roboto Mono;
+    position: relative;
+    right:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
